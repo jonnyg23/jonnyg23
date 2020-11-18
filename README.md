@@ -9,10 +9,9 @@
 
 <h3>Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" /></a>
-<a href="https://kaggle.com/jonnyg23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jonnyg23" height="30" width="30" /></a>
-<a href="https://instagram.com/jonnyg_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonnyg_23" height="30" width="30" /></a>
-<a href="https://www.youtube.com/user/pen7070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pen7070" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" /></a>
+<a href="https://kaggle.com/jonnyg23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jonnyg23" height="30" width="30" /></a>
+<a href="https://instagram.com/jonnyg_23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jonnyg_23" height="30" width="30" /></a>
 </p>
 
 <h3>Languages and tools:</h3>
