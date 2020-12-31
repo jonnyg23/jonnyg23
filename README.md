@@ -1,11 +1,14 @@
 <h1 align="left">Hi there, I'm Jonathan - aka Jonny G 👋</h1>
 <h3 align="left">I'm a Mechanical | Software Engineer!</h3>
 
-- 🎓 MSME UNM Grad
-- 🔭 I’m currently working on a [Full Stack Web Dev Course - Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
-- 🌱 Always learning something new
-- 🥅 2021 Goals: Work on progressing my Machine/Deep Learning knowledge
-- ⚡ Fun fact: I love to read and play piano / guitar
+- :mortar_board: MSME UNM Grad
+- :mortar_board: Recent [Full Stack Web Developer Nanodegree Program -
+  Udacity](https://confirm.udacity.com/HPADLJE3)
+  Graduate
+- :telescope: I'm currently working on Frontend Dev of [flask-rest-ecommerce](https://github.com/jonnyg23/flask-rest-ecommerce)
+- :seedling: Always learning something new
+- :goal_net: 2021 Goals: Work on progressing my Machine/Deep Learning knowledge
+- :zap: Fun fact: I love to read and play piano / guitar
 
 <h3>Connect with me:</h3> 
 <p align="left">
