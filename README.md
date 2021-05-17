@@ -10,15 +10,87 @@
 - :goal_net: 2021 Goals: Work on progressing my React Native & ReactJS knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
-<h3>Connect with me:</h3> 
+<h3>Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" /></a>
-<a href="https://kaggle.com/jonnyg23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jonnyg23" height="30" width="30" /></a>
-<a href="https://instagram.com/jonnyg_23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jonnyg_23" height="30" width="30" /></a>
+  <span>
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank">
+      <img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg?response-content-disposition=attachment%3Bfilename%3Dlinkedin-icon.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" />
+    </a>
+    <!-- Instagram -->
+    <a href="https://instagram.com/jonnyg_23" target="blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jonnyg_23" height="30" width="30" />
+    </a>
+  </span>
 </p>
 
 <h3>Languages and tools:</h3>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-icon.svg" alt="labview" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="50" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="40"/> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/></p><p>
+
+<p align="left">
+  <span>
+    <!-- Python -->
+    <img src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" alt="python" width="40" height="40"/>
+    <!-- LabVIEW -->
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ni_labview_logo_icon_168086.png" alt="labview" width="40" height="40"/>
+    <!-- React -->
+    <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
+    <!-- JavaScript -->
+    <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
+    <!-- Docker -->
+    <img src="https://cdn.svgporn.com/logos/docker-icon.svg?response-content-disposition=attachment%3Bfilename%3Ddocker-icon.svg" alt="docker" width="50" height="40"/>
+    <!-- Flask -->
+    <img src="https://cdn.svgporn.com/logos/flask.svg?response-content-disposition=attachment%3Bfilename%3Dflask.svg" alt="flask" width="40" height="40"/>
+    <!-- PostgreSQL -->
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    <!-- Amazon AWS -->
+    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="AWS" width="40" height="40"/>
+    <!-- Jupyter -->
+    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="Jupyter" width="40" height="40" />
+    <!-- Tensorflow -->
+    <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    <!-- VS Code -->
+    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <!-- Git -->
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
+    <!-- Adobe Illustrator -->
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <!-- Adobe XD -->
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
+  </span>
+</p>
+
+<h3>In the works:</h3>
+
+<p>
+  <span>
+    <!-- GraphQL -->
+    <img
+    src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg"
+    alt="GraphQL" width="40" height="40"/>
+    <!-- Next.js -->
+    <img src="https://cdn.svgporn.com/logos/nextjs.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs.svg" alt="next.js" width="40" height="40"/>
+    <!-- Tailwind CSS -->
+    <img
+    src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg"
+    alt="tailwind css " width="40" height="40"/>
+    <!-- Gatsby -->
+    <img
+    src="https://cdn.svgporn.com/logos/gatsby.svg?response-content-disposition=attachment%3Bfilename%3Dgatsby.svg"
+    alt="gatsby" width="40" height="40"/>
+    <!-- Netlify -->
+    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="Netlify" width="40" height="40" />
+    <!-- Namecheap SSL Certificates -->
+    <img
+    src="https://cdn.svgporn.com/logos/namecheap.svg?response-content-disposition=attachment%3Bfilename%3Dnamecheap.svg"
+    alt="Namecheap" width="40" height="40" />
+    <!-- Strapi Headless CMS -->
+    <img
+    src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg"
+    alt="Strapi" width="40" height="40" />
+  </span>
+</p>
+
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonnyg23&show_icons=true" alt="jonnyg23" /></p>
