@@ -70,14 +70,6 @@
     alt="GraphQL" width="40" height="40"/>
     <!-- Next.js -->
     <img src="https://cdn.svgporn.com/logos/nextjs.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs.svg" alt="next.js" width="40" height="40"/>
-    <!-- Tailwind CSS -->
-    <img
-    src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg"
-    alt="tailwind css " width="40" height="40"/>
-    <!-- Gatsby -->
-    <img
-    src="https://cdn.svgporn.com/logos/gatsby.svg?response-content-disposition=attachment%3Bfilename%3Dgatsby.svg"
-    alt="gatsby" width="40" height="40"/>
     <!-- Netlify -->
     <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="Netlify" width="40" height="40" />
     <!-- Namecheap SSL Certificates -->
