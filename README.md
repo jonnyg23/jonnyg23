@@ -2,10 +2,10 @@
 <h3 align="left">I'm a Mechanical | Software Engineer!</h3>
 
 - :mortar_board: MSME UNM Grad
-- :mortar_board: Recent [Full Stack Web Developer Nanodegree Program -
-  Udacity](https://confirm.udacity.com/HPADLJE3)
-  Graduate
-- :telescope: I'm currently working on Frontend Dev of [flask-rest-ecommerce](https://github.com/jonnyg23/flask-rest-ecommerce)
+- :mortar_board: [Full Stack Web Developer Nanodegree Program
+  ](https://confirm.udacity.com/HPADLJE3) - 
+  Udacity Graduate
+- :telescope: Currently working on Frontend of [flask-rest-ecommerce](https://github.com/jonnyg23/flask-rest-ecommerce)
 - :seedling: Always learning something new
 - :goal_net: 2021 Goals: Work on progressing my React Native & ReactJS knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
