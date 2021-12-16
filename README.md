@@ -1,13 +1,14 @@
 <h1 align="left">Hi there, I'm Jonathan - aka Jonny G 👋</h1>
 <h3 align="left">I'm a Mechanical | Software Engineer!</h3>
 
-- :mortar_board: MSME UNM Grad
+- :mortar_board: MSME (MS in Mechanical Engineering) UNM Graduate
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
-- :telescope: Currently working on Frontend of [flask-rest-ecommerce](https://github.com/jonnyg23/flask-rest-ecommerce)
+- :telescope: Currently working on Backend of a private small business repo
 - :seedling: Always learning something new
-- :goal_net: 2021 Goals: Work on progressing my React Native & ReactJS knowledge
+- :goal_net: 2022 Goals: Work on progressing my React Native, Next.js, FastAPI,
+ & Deployment knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
 <h3>Connect with me:</h3>
@@ -18,6 +19,7 @@
     <a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank">
       <img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg?response-content-disposition=attachment%3Bfilename%3Dlinkedin-icon.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" />
     </a>
+    &nbsp;
     <!-- Instagram -->
     <a href="https://instagram.com/jonnyg_23" target="blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jonnyg_23" height="30" width="30" />
@@ -39,18 +41,23 @@
     <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
     <!-- Docker -->
     <img src="https://cdn.svgporn.com/logos/docker-icon.svg?response-content-disposition=attachment%3Bfilename%3Ddocker-icon.svg" alt="docker" width="50" height="40"/>
+    <!-- Next.js -->
+    <img src="https://cdn.svgporn.com/logos/nextjs.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs.svg" alt="next.js" width="40" height="40"/>
     <!-- Flask -->
     <img src="https://cdn.svgporn.com/logos/flask.svg?response-content-disposition=attachment%3Bfilename%3Dflask.svg" alt="flask" width="40" height="40"/>
     <!-- PostgreSQL -->
     <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    <br></br>
+    <!-- Material UI -->
+    <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
     <!-- Amazon AWS -->
-    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="aws" width="40" height="40"/>
     <!-- Jupyter -->
-    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="Jupyter" width="40" height="40" />
+    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="40" height="40" />
     <!-- Tensorflow -->
     <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
     <!-- VS Code -->
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
     <!-- Git -->
     <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
     <!-- Adobe Illustrator -->
@@ -67,19 +74,21 @@
     <!-- GraphQL -->
     <img
     src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg"
-    alt="GraphQL" width="40" height="40"/>
-    <!-- Next.js -->
-    <img src="https://cdn.svgporn.com/logos/nextjs.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs.svg" alt="next.js" width="40" height="40"/>
+    alt="graphql" width="40" height="40"/>
+    <!-- Terraform -->
+    <img
+    src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg"
+    alt="terraform" width="40" height="40" />
     <!-- Netlify -->
-    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="Netlify" width="40" height="40" />
+    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
     <!-- Namecheap SSL Certificates -->
     <img
     src="https://cdn.svgporn.com/logos/namecheap.svg?response-content-disposition=attachment%3Bfilename%3Dnamecheap.svg"
-    alt="Namecheap" width="40" height="40" />
+    alt="namecheap" width="40" height="40" />
     <!-- Strapi Headless CMS -->
     <img
     src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg"
-    alt="Strapi" width="40" height="40" />
+    alt="strapi" width="40" height="40" />
   </span>
 </p>
 
