@@ -7,6 +7,7 @@
   Udacity Graduate
 - :telescope: Currently working on Backend of a private small business repo
 - :seedling: Always learning something new
+- :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
 - :goal_net: 2022 Goals: Work on progressing my React Native, Next.js, FastAPI,
  & Deployment knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
