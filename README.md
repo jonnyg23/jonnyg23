@@ -5,10 +5,10 @@
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
-- :telescope: Currently employed with Keystone Tower Systems
+- :telescope: Currently employed with [Keystone Tower Systems](https://keystonetowersystems.com/)
 - :seedling: Always learning something new
 - :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
-- :goal_net: 2022 Goals: Work on progressing my Vue, Vuetify, AWS, and
+- :goal_net: 2023 Goals: Work on progressing my Vue, Vuetify, AWS, and
   Terraform Knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
