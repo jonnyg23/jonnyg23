@@ -5,7 +5,7 @@
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
-- :telescope: Currently employed with [Keystone Tower Systems](https://keystonetowersystems.com/)
+- :telescope: Currently open to new Software Engineer roles
 - :seedling: Always learning something new
 - :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
 - :goal_net: 2023 Goals: Work on progressing my Vue, Vuetify, AWS, and
@@ -34,13 +34,21 @@
 <p align="left">
   <span>
     <!-- Python -->
-    <img src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" alt="python" width="40" height="40"/>
+    <a href="https://www.python.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" alt="python" width="40" height="40"/>
+    </a>
     <!-- Matlab -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+    <a href="https://www.mathworks.com/products/matlab.html" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+    </a>
     <!-- JavaScript -->
-    <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
+    <a href="https://www.javascript.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
+    </a>
     <!-- LabVIEW -->
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ni_labview_logo_icon_168086.png" alt="labview" width="40" height="40"/>
+    <a href="https://www.ni.com/en-us/shop/labview.html" target="blank">
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ni_labview_logo_icon_168086.png" alt="labview" width="40" height="40"/>
+    </a>
   </span>
 </p>
 
@@ -48,17 +56,29 @@
 <p align="left">
   <span>
     <!-- React -->
-    <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
+    <a href="https://reactjs.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
+    </a>
     <!-- Vue JS -->
-    <img src="https://cdn.svgporn.com/logos/vue.svg?response-content-disposition=attachment%3Bfilename%3Dvue.svg" alt="vue" width="50" height="40">
+    <a href="https://vuejs.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/vue.svg?response-content-disposition=attachment%3Bfilename%3Dvue.svg" alt="vue" width="50" height="40">
+    </a>
     <!-- Next.js -->
-    <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs-icon.svg" alt="next.js" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg?response-content-disposition=attachment%3Bfilename%3Dnextjs-icon.svg" alt="next.js" width="40" height="40"/>
+    </a>
     <!-- Material UI -->
-    <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
+    <a href="https://mui.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
+    </a>
     <!-- Vuetify -->
-    <img src="https://cdn.svgporn.com/logos/vuetifyjs.svg?response-content-disposition=attachment%3Bfilename%3Dvuetifyjs.svg" alt="material ui" width="40" height="40"/>
+    <a href="https://vuetifyjs.com/en/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/vuetifyjs.svg?response-content-disposition=attachment%3Bfilename%3Dvuetifyjs.svg" alt="material ui" width="40" height="40"/>
+    </a>
     <!-- Adobe XD -->
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
+    <a href="https://en.wikipedia.org/wiki/Adobe_XD" target="blank">
+      <img src="https://cdn.svgporn.com/logos/adobe-xd.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-xd.svg" alt="adobe-xd" width="40" height="40"/>
+    </a>
   </span>
 </p>
 
@@ -66,13 +86,25 @@
 <p align="left">
   <span>
     <!-- AWS Dynamodb -->
-    <img src="https://cdn.svgporn.com/logos/aws-dynamodb.svg?response-content-disposition=attachment%3Bfilename%3Daws-dynamodb.svg" alt="docker" width="50" height="40"/>
+    <a href="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html" target="blank">
+      <img src="https://cdn.svgporn.com/logos/aws-dynamodb.svg?response-content-disposition=attachment%3Bfilename%3Daws-dynamodb.svg" alt="aws-dynamodb" width="50" height="40"/>
+    </a>
+    <!-- FastAPI -->
+    <a href="https://fastapi.tiangolo.com/" target="blank">
+      <img src="https://api.mogenius.com/file/id/f7382e8b-be9a-4b6e-be70-cba7c3c664f2" alt="fastapi" width="40" height="40"/>
+    </a>
     <!-- Docker -->
-    <img src="https://cdn.svgporn.com/logos/docker-icon.svg?response-content-disposition=attachment%3Bfilename%3Ddocker-icon.svg" alt="docker" width="50" height="40"/>
+    <a href="https://www.docker.com" target="blank">
+      <img src="https://cdn.svgporn.com/logos/docker-icon.svg?response-content-disposition=attachment%3Bfilename%3Ddocker-icon.svg" alt="docker" width="50" height="40"/>
+    </a>
     <!-- Flask -->
-    <img src="https://cdn.svgporn.com/logos/flask.svg?response-content-disposition=attachment%3Bfilename%3Dflask.svg" alt="flask" width="40" height="40"/>
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/flask.svg?response-content-disposition=attachment%3Bfilename%3Dflask.svg" alt="flask" width="40" height="40"/>
+    </a>
     <!-- PostgreSQL -->
-    <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    <a href="https://www.postgresql.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    </a>
   </span>
 </p>
 
@@ -80,15 +112,33 @@
 <p align="left">
   <span>
     <!-- Tensorflow -->
-    <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    <a href="https://www.tensorflow.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
     <!-- VS Code -->
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
+    <a href="https://code.visualstudio.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
+    </a>
     <!-- Git -->
-    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
+    <a href="https://git-scm.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
+    </a>
     <!-- Adobe Illustrator -->
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <a href="https://www.adobe.com/products/illustrator/free-trial-download.html" target="blank">
+      <img src="https://cdn.svgporn.com/logos/adobe-illustrator.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
+    </a>
     <!-- Jupyter -->
-    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="40" height="40" />
+    <a href="https://jupyter.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="40" height="40" />
+    </a>
+    <!-- Obsidian.md -->
+    <a href="https://obsidian.md/" target="blank">
+      <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" alt="obsidian" width="40" height="40" />
+    </a>
+    <!-- Postman -->
+    <a href="https://www.postman.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/postman-icon.svg?response-content-disposition=attachment%3Bfilename%3Dpostman-icon.svg" alt="postman" width="40" height="40" />
+    </a>
   </span>
 </p>
 
@@ -97,29 +147,32 @@
 <p>
   <span>
     <!-- AWS Lambda -->
-    <img src="https://cdn.svgporn.com/logos/aws-lambda.svg?response-content-disposition=attachment%3Bfilename%3Daws-lambda.svg" alt="docker" width="50" height="40"/>
-    <!-- GraphQL -->
-    <img
-    src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg"
-    alt="graphql" width="40" height="40"/>
+    <a href="https://aws.amazon.com/lambda/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/aws-lambda.svg?response-content-disposition=attachment%3Bfilename%3Daws-lambda.svg" alt="aws-lambda" width="50" height="40"/>
+    </a>
+    <!-- AWS API Gateway -->
+    <a href="https://aws.amazon.com/api-gateway/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/aws-api-gateway.svg?response-content-disposition=attachment%3Bfilename%3Daws-api-gateway.svg" alt="aws-api-gateway" width="50" height="40"/>
+    </a>
     <!-- Terraform -->
-    <img
-    src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg"
-    alt="terraform" width="40" height="40" />
+    <a href="https://www.terraform.io/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg" alt="terraform" width="40" height="40" />
+    </a>
     <!-- Netlify -->
-    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
-    <!-- Namecheap SSL Certificates -->
-    <img
-    src="https://cdn.svgporn.com/logos/namecheap.svg?response-content-disposition=attachment%3Bfilename%3Dnamecheap.svg"
-    alt="namecheap" width="40" height="40" />
+    <a href="https://www.netlify.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
+    </a>
     <!-- Strapi Headless CMS -->
-    <img
-    src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg"
-    alt="strapi" width="40" height="40" />
+    <a href="https://strapi.io/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg" alt="strapi" width="40" height="40" />
+    </a>
+    <!-- Adobe After Effects -->
+    <a href="https://www.adobe.com/products/aftereffects.html" target="blank">
+      <img src="https://cdn.svgporn.com/logos/adobe-after-effects.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-after-effects.svg" alt="adobe-after-effects" width="40" height="40" />
+    </a>
+    <!-- Adobe Premiere Pro -->
+    <a href="https://www.adobe.com/products/premiere.html" target="blank">
+      <img src="https://cdn.svgporn.com/logos/adobe-premiere.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-premiere.svg" alt="adobe-premiere-pro" width="40" height="40" />
+    </a>
   </span>
 </p>
-
-
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonnyg23&show_icons=true" alt="jonnyg23" /></p>
--->
