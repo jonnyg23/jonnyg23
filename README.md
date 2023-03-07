@@ -17,7 +17,7 @@
 <p align="left">
   <span>
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/jonathan-gutierrez-b9412357" target="blank">
+    <a href="https://linkedin.com/in/jonnyg23" target="blank">
       <img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg?response-content-disposition=attachment%3Bfilename%3Dlinkedin-icon.svg" alt="jonathan-gutierrez-b9412357" height="30" width="30" />
     </a>
     &nbsp;
