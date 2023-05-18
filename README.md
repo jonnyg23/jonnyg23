@@ -5,7 +5,7 @@
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
-- :telescope: Currently open to new Software Engineer roles
+- :computer: Currently employed @ [Conservation Labs](https://conservationlabs.com/) :droplet:
 - :seedling: Always learning something new
 - :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
 - :goal_net: 2023 Goals: Work on progressing my Vue, Vuetify, AWS, and
