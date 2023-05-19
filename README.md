@@ -1,11 +1,11 @@
 <h1 align="left">Hi there, I'm Jonathan - aka Jonny G 👋</h1>
 <h3 align="left">I'm a Mechanical | Software Engineer!</h3>
 
+- :computer: Currently employed @ [Conservation Labs](https://conservationlabs.com/) :droplet:
 - :mortar_board: MSME (MS in Mechanical Engineering) UNM Graduate
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
-- :computer: Currently employed @ [Conservation Labs](https://conservationlabs.com/) :droplet:
 - :seedling: Always learning something new
 - :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
 - :goal_net: 2023 Goals: Work on progressing my Vue, Vuetify, AWS, and
