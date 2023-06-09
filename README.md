@@ -146,6 +146,10 @@
 
 <p>
   <span>
+    <!-- Terraform -->
+    <a href="https://www.terraform.io/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg" alt="terraform" width="40" height="40" />
+    </a>
     <!-- AWS Lambda -->
     <a href="https://aws.amazon.com/lambda/" target="blank">
       <img src="https://cdn.svgporn.com/logos/aws-lambda.svg?response-content-disposition=attachment%3Bfilename%3Daws-lambda.svg" alt="aws-lambda" width="50" height="40"/>
@@ -153,18 +157,6 @@
     <!-- AWS API Gateway -->
     <a href="https://aws.amazon.com/api-gateway/" target="blank">
       <img src="https://cdn.svgporn.com/logos/aws-api-gateway.svg?response-content-disposition=attachment%3Bfilename%3Daws-api-gateway.svg" alt="aws-api-gateway" width="50" height="40"/>
-    </a>
-    <!-- Terraform -->
-    <a href="https://www.terraform.io/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg" alt="terraform" width="40" height="40" />
-    </a>
-    <!-- Netlify -->
-    <a href="https://www.netlify.com/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
-    </a>
-    <!-- Strapi Headless CMS -->
-    <a href="https://strapi.io/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg" alt="strapi" width="40" height="40" />
     </a>
     <!-- Adobe After Effects -->
     <a href="https://www.adobe.com/products/aftereffects.html" target="blank">
