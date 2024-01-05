@@ -8,7 +8,7 @@
   Udacity Graduate
 - :seedling: Always learning something new
 - :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
-- :goal_net: 2023 Goals: Work on progressing my Vue, Vuetify, AWS, and
+- :goal_net: 2024 Goals: Work on progressing my NextJS, AWS, and
   Terraform Knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
@@ -37,13 +37,13 @@
     <a href="https://www.python.org/" target="blank">
       <img src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" alt="python" width="40" height="40"/>
     </a>
-    <!-- Matlab -->
-    <a href="https://www.mathworks.com/products/matlab.html" target="blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-    </a>
     <!-- JavaScript -->
     <a href="https://www.javascript.com/" target="blank">
       <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <!-- Matlab -->
+    <a href="https://www.mathworks.com/products/matlab.html" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
     </a>
     <!-- LabVIEW -->
     <a href="https://www.ni.com/en-us/shop/labview.html" target="blank">
@@ -91,7 +91,7 @@
     </a>
     <!-- FastAPI -->
     <a href="https://fastapi.tiangolo.com/" target="blank">
-      <img src="https://api.mogenius.com/file/id/f7382e8b-be9a-4b6e-be70-cba7c3c664f2" alt="fastapi" width="40" height="40"/>
+      <img src="https://cdn.svgporn.com/logos/fastapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dfastapi-icon.svg" alt="fastapi" width="40" height="40"/>
     </a>
     <!-- Docker -->
     <a href="https://www.docker.com" target="blank">
@@ -104,6 +104,18 @@
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org/" target="blank">
       <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <!-- Terraform -->
+    <a href="https://www.terraform.io/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg" alt="terraform" width="40" height="40" />
+    </a>
+    <!-- AWS Lambda -->
+    <a href="https://aws.amazon.com/lambda/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/aws-lambda.svg?response-content-disposition=attachment%3Bfilename%3Daws-lambda.svg" alt="aws-lambda" width="50" height="40"/>
+    </a>
+    <!-- AWS S3 -->
+    <a href="https://aws.amazon.com/s3/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/aws-s3.svg?response-content-disposition=attachment%3Bfilename%3Daws-s3.svg" alt="aws-s3" width="50" height="40"/>
     </a>
   </span>
 </p>
@@ -146,17 +158,13 @@
 
 <p>
   <span>
-    <!-- Terraform -->
-    <a href="https://www.terraform.io/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg" alt="terraform" width="40" height="40" />
-    </a>
-    <!-- AWS Lambda -->
-    <a href="https://aws.amazon.com/lambda/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/aws-lambda.svg?response-content-disposition=attachment%3Bfilename%3Daws-lambda.svg" alt="aws-lambda" width="50" height="40"/>
-    </a>
     <!-- AWS API Gateway -->
     <a href="https://aws.amazon.com/api-gateway/" target="blank">
       <img src="https://cdn.svgporn.com/logos/aws-api-gateway.svg?response-content-disposition=attachment%3Bfilename%3Daws-api-gateway.svg" alt="aws-api-gateway" width="50" height="40"/>
+    </a>
+    <!-- Figma -->
+    <a href="https://www.figma.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/figma.svg?response-content-disposition=attachment%3Bfilename%3Dfigma.svg" alt="figma" width="40" height="40" />
     </a>
     <!-- Adobe After Effects -->
     <a href="https://www.adobe.com/products/aftereffects.html" target="blank">
