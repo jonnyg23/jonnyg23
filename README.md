@@ -7,7 +7,6 @@
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
 - :seedling: Always learning something new
-- :pencil: Maintaining & Updating an Obsidian Vault full of Coding Workflow Notes.
 - :goal_net: 2024 Goals: Work on progressing my NextJS, AWS, and
   Terraform Knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
