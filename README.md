@@ -118,13 +118,31 @@
   </span>
 </p>
 
-<h4>Misc:</h4>
+<h4>AI Tech:</h4>
 <p align="left">
   <span>
     <!-- Tensorflow -->
     <a href="https://www.tensorflow.org/" target="blank">
       <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
     </a>
+    <!-- OpenAI GPT4 -->
+    <a href="https://openai.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/openai-icon.svg?response-content-disposition=attachment%3Bfilename%3Dopenai-icon.svg" alt="OpenAI" width="40" height="40"/>
+    </a>
+    <!-- Anthropic Claude Models -->
+    <a href="https://www.anthropic.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/anthropic-icon.svg?response-content-disposition=attachment%3Bfilename%3Danthropic-icon.svg" alt="anthropic" width="40" height="40"/>
+    </a>
+    <!-- Google Gemini -->
+    <a href="https://gemini.google.com/app" target="blank">
+      <img src="https://cdn.svgporn.com/logos/google-gemini.svg?response-content-disposition=attachment%3Bfilename%3Dgoogle-gemini.svg" alt="gemini" width="50" height="40"/>
+    </a>
+  </span>
+</p>
+
+<h4>Misc:</h4>
+<p align="left">
+  <span>
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="blank">
       <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
@@ -145,9 +163,9 @@
     <a href="https://obsidian.md/" target="blank">
       <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" alt="obsidian" width="40" height="40" />
     </a>
-    <!-- Postman -->
-    <a href="https://www.postman.com/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/postman-icon.svg?response-content-disposition=attachment%3Bfilename%3Dpostman-icon.svg" alt="postman" width="40" height="40" />
+    <!-- zsh -->
+    <a href="https://ohmyz.sh/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/zsh.svg?response-content-disposition=attachment%3Bfilename%3Dzsh.svg" alt="zsh" width="60" height="40" />
     </a>
   </span>
 </p>
@@ -158,11 +176,11 @@
   <span>
     <!-- Rust -->
     <a href="https://www.rust-lang.org/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/rust.svg?response-content-disposition=attachment%3Bfilename%3Drust.svg" alt="aws-api-gateway" width="40" height="40"/>
+      <img src="https://cdn.svgporn.com/logos/rust.svg?response-content-disposition=attachment%3Bfilename%3Drust.svg" alt="rust" width="40" height="40"/>
     </a>
     <!-- Tailwind CSS -->
     <a href="https://tailwindcss.com/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg" alt="aws-api-gateway" width="40" height="40"/>
+      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg" alt="tailwindCSS" width="40" height="40"/>
     </a>
     <!-- Figma -->
     <a href="https://www.figma.com/" target="blank">
