@@ -7,8 +7,7 @@
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
 - :seedling: Always learning something new
-- :goal_net: 2024 Goals: Work on progressing my NextJS, AWS, and
-  Terraform Knowledge
+- :goal_net: 2024 Goals: Work on progressing my Tailwind & Rust knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
 <h3>Connect with me:</h3>
@@ -157,21 +156,17 @@
 
 <p>
   <span>
-    <!-- AWS API Gateway -->
-    <a href="https://aws.amazon.com/api-gateway/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/aws-api-gateway.svg?response-content-disposition=attachment%3Bfilename%3Daws-api-gateway.svg" alt="aws-api-gateway" width="50" height="40"/>
+    <!-- Rust -->
+    <a href="https://www.rust-lang.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/rust.svg?response-content-disposition=attachment%3Bfilename%3Drust.svg" alt="aws-api-gateway" width="40" height="40"/>
+    </a>
+    <!-- Tailwind CSS -->
+    <a href="https://tailwindcss.com/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtailwindcss-icon.svg" alt="aws-api-gateway" width="40" height="40"/>
     </a>
     <!-- Figma -->
     <a href="https://www.figma.com/" target="blank">
       <img src="https://cdn.svgporn.com/logos/figma.svg?response-content-disposition=attachment%3Bfilename%3Dfigma.svg" alt="figma" width="40" height="40" />
-    </a>
-    <!-- Adobe After Effects -->
-    <a href="https://www.adobe.com/products/aftereffects.html" target="blank">
-      <img src="https://cdn.svgporn.com/logos/adobe-after-effects.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-after-effects.svg" alt="adobe-after-effects" width="40" height="40" />
-    </a>
-    <!-- Adobe Premiere Pro -->
-    <a href="https://www.adobe.com/products/premiere.html" target="blank">
-      <img src="https://cdn.svgporn.com/logos/adobe-premiere.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-premiere.svg" alt="adobe-premiere-pro" width="40" height="40" />
     </a>
   </span>
 </p>
