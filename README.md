@@ -73,10 +73,6 @@
     <a href="https://vuetifyjs.com/en/" target="blank">
       <img src="https://cdn.svgporn.com/logos/vuetifyjs.svg?response-content-disposition=attachment%3Bfilename%3Dvuetifyjs.svg" alt="material ui" width="40" height="40"/>
     </a>
-    <!-- Adobe XD -->
-    <a href="https://en.wikipedia.org/wiki/Adobe_XD" target="blank">
-      <img src="https://cdn.svgporn.com/logos/adobe-xd.svg?response-content-disposition=attachment%3Bfilename%3Dadobe-xd.svg" alt="adobe-xd" width="40" height="40"/>
-    </a>
   </span>
 </p>
 
@@ -125,13 +121,13 @@
     <a href="https://www.tensorflow.org/" target="blank">
       <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <!-- OpenAI GPT4 -->
+    <!-- OpenAI GPT4o -->
     <a href="https://openai.com/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/openai-icon.svg?response-content-disposition=attachment%3Bfilename%3Dopenai-icon.svg" alt="OpenAI" width="40" height="40"/>
+      <img src="https://asset.brandfetch.io/idR3duQxYl/idxxYWpPAw.jpeg" alt="OpenAI" width="40" height="40"/>
     </a>
     <!-- Anthropic Claude Models -->
     <a href="https://www.anthropic.com/" target="blank">
-      <img src="https://cdn.svgporn.com/logos/anthropic-icon.svg?response-content-disposition=attachment%3Bfilename%3Danthropic-icon.svg" alt="anthropic" width="40" height="40"/>
+      <img src="https://asset.brandfetch.io/idmJWF3N06/ida_TmGBgC.jpeg" alt="anthropic" width="40" height="40"/>
     </a>
     <!-- Google Gemini -->
     <a href="https://gemini.google.com/app" target="blank">
