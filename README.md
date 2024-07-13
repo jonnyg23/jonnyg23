@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Jonathan - aka Jonny G 👋</h1>
 <h3 align="left">I'm a Mechanical | Software Engineer!</h3>
 
-- :computer: Currently employed @ [Conservation Labs](https://conservationlabs.com/#:~:text=Jonathan%20Gutierrez%2C%20Engineering) :droplet:
+- :computer: Currently employed @ dLinc
 - :mortar_board: MSME (MS in Mechanical Engineering) UNM Graduate
 - :mortar_board: [Full Stack Web Developer Nanodegree Program
   ](https://confirm.udacity.com/HPADLJE3) - 
