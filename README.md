@@ -45,12 +45,12 @@
     </a>
     <!-- LabVIEW -->
     <a href="https://www.ni.com/en-us/shop/labview.html" target="blank">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ni_labview_logo_icon_168086.png" alt="labview" width="40" height="40"/>
+      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Labview-Logo-Vector.svg-.png" alt="labview" width="60" height="50"/>
     </a>
   </span>
 </p>
 
-<h4>JS Frameworks & UI:</h4>
+<h4>JS Frameworks, State Management & UI:</h4>
 <p align="left">
   <span>
     <!-- React -->
@@ -73,6 +73,11 @@
     <a href="https://vuetifyjs.com/en/" target="blank">
       <img src="https://cdn.svgporn.com/logos/vuetifyjs.svg?response-content-disposition=attachment%3Bfilename%3Dvuetifyjs.svg" alt="material ui" width="40" height="40"/>
     </a>
+    <!-- Pinia -->
+    <a href="https://pinia.vuejs.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/pinia.svg?response-content-disposition=attachment%3Bfilename%3Dpinia.svg" alt="pinia" width="40" height="40"/>
+    </a>
+
   </span>
 </p>
 
@@ -121,13 +126,17 @@
     <a href="https://www.tensorflow.org/" target="blank">
       <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
     </a>
+    <!-- Pytorch -->
+    <a href="https://www.pytorg.org/" target="blank">
+      <img src="https://cdn.svgporn.com/logos/pytorch-icon.svg?response-content-disposition=attachment%3Bfilename%3Dpytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    </a>
     <!-- OpenAI GPT4o -->
     <a href="https://openai.com/" target="blank">
       <img src="https://asset.brandfetch.io/idR3duQxYl/idxxYWpPAw.jpeg" alt="OpenAI" width="40" height="40"/>
     </a>
     <!-- Anthropic Claude Models -->
     <a href="https://www.anthropic.com/" target="blank">
-      <img src="https://asset.brandfetch.io/idmJWF3N06/ida_TmGBgC.jpeg" alt="anthropic" width="40" height="40"/>
+      <img src="https://cdn.svgporn.com/logos/claude-icon.svg?response-content-disposition=attachment%3Bfilename%3Dclaude-icon.svg" alt="claude" width="40" height="40"/>
     </a>
     <!-- Google Gemini -->
     <a href="https://gemini.google.com/app" target="blank">
