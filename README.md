@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Jonathan - aka Jonny G 👋</h1>
-<h3 align="left">I'm a Mechanical | Software Engineer!</h3>
+<h3 align="left">I'm a Mechanical/Software Engineer!</h3>
 
 - :computer: Currently employed @ dLinc
 - :mortar_board: MSME (MS in Mechanical Engineering) UNM Graduate
@@ -7,7 +7,7 @@
   ](https://confirm.udacity.com/HPADLJE3) - 
   Udacity Graduate
 - :seedling: Always learning something new
-- :goal_net: 2024 Goals: Work on progressing my Tailwind & Rust knowledge
+- :goal_net: 2025 Goals: Work on progressing my Tailwind & Rust knowledge
 - :zap: Fun fact: I love to read and play piano / guitar
 
 <h3>Connect with me:</h3>
